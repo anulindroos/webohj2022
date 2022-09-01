@@ -1,0 +1,37 @@
+1. React
+A JavaScript library that is open-source to be used with front-end developing.
+It uses components to create user interfaces and is maintained by Meta 
+(aka former Facebook), indie developers as well as other companies.
+
+2. React components
+It is what React code consists of and are reusable. These can be rendered to a 
+particular element in the DOM using the React DOM library. When a component is
+being rendered, one can pass values between components using props.
+
+3. Single-page application
+A webpage that loads only a single web document and updates it dynamically.
+This means that users can use a website without loading a whole new page from 
+the server.
+
+4. Declarative programming (versus imperative programming)
+When developing, the developer designs views for each state of an app and
+React updates and renders the components when data changes. In short,
+it focuses on what the program should accomplish without specifying the details
+of how the program should achieve the result. In imperative 
+programming, the developer uses commands for the computer to perform and focuses 
+on how a program operates step by step
+
+5. JSX
+An acronym of JavaScript Syntax Extension, is, as the name says, an extension 
+to JavaScript. It is similar in apearance to HTML but JSX has a way to structure
+component rendering using syntax familiar to many devs. Components that React 
+uses are typically written using JSX, though this is not always necessary (as 
+pure JavaScript also works).
+
+6. Asynchronous (versus synchronous)
+Asynchronous programming is a multithreaded model that is most applicable to
+networking and communications and is a non-blocking architechture. This means
+that the program will execute despite one or more operations being in progress and
+thus doesn't need other processes to complete before running. With synchronous
+programming, there is only one thread available, thus making it mandatory to wait 
+for other processes to concluce before running. 
